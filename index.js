@@ -5,7 +5,7 @@ window.addEventListener(
   () => {
     const viewhandler = new ViewHandler();
     viewhandler.initiew();
-    viewhandler.setUpNav();
+    ViewHandler.setUpNav();
   },
   false,
 );
