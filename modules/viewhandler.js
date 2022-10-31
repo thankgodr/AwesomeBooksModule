@@ -1,8 +1,8 @@
 /* eslint-disable no-restricted-globals */
 
 import { DateTime } from 'luxon';
-import Book from './book';
-import BookListManger from './boolist_manager';
+import Book from './book.js';
+import BookListManger from './boolist_manager.js';
 
 export default class ViewHandler {
   constructor() {

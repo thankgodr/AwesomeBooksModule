@@ -1,4 +1,4 @@
-import ViewHandler from './modules/viewhandler';
+import ViewHandler from './modules/viewhandler.js';
 
 window.addEventListener(
   'load',
