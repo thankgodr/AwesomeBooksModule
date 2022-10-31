@@ -16,8 +16,5 @@
   "bugs": {
     "url": "https://github.com/thankgodr/AwesomeBooksModule/issues"
   },
-  "homepage": "https://github.com/thankgodr/AwesomeBooksModule#readme",
-  "dependencies": {
-    "luxon": "^3.0.4"
-  }
+  "homepage": "https://github.com/thankgodr/AwesomeBooksModule#readme"
 }
